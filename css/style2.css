@@ -1,0 +1,18 @@
+.main-heading {
+    font-size: 60px;
+    color: #fff !important;
+    line-height: 1.2;
+    font-weight: 800;
+}
+
+.highlight {
+    color: #ffbd39 !important;
+}
+
+.sub-heading {
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #ffbd39;
+}
